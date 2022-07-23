@@ -56,11 +56,9 @@ color: #000000;
 	
 /* Style the top navigation bar */
 .navbar {
-margin: 0%;
-padding: 0%;
-display: flex;
 background-color: rgb(26, 26, 26);
 font-family: sans-serif;
+width: calc(103% - 5px); 
 }
   
   /* Style the navigation bar links */
